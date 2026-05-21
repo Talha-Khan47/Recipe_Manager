@@ -9,7 +9,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ## 🌐 Live Demo
-*Link to Live Deployment: [Deploy Your App Here]*
+*Link to Live Deployment: [https://recipe-manager-flame-gamma.vercel.app/](https://recipe-manager-flame-gamma.vercel.app/)*
 
 ## ✨ Features
 - **Dynamic Search & Filtering:** Instantly filter recipes by category or search through titles, descriptions, and ingredients.
